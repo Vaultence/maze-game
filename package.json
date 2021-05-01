@@ -1,0 +1,9 @@
+{
+  "name": "maze-game",
+  "version": "0.1.0",
+  "description": "Implementation of a maze-like game meant to be run on a discord bot.",
+  "main": "index.js",
+  "repository": "github.com/Vaultence/maze-game",
+  "author": "Calvin Henders",
+  "license": "MIT"
+}
